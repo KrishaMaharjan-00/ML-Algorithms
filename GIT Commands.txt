@@ -1,0 +1,30 @@
+GIT Commands
+1. pwd
+2. git init
+3. ls -a
+4. git status
+5. git add filename
+6. git commit -m "New File Add"
+7. git log
+8. git checkout
+9. git branch
+10. git branch branchname
+11. git merge branchname
+12. git stash:: unfinished project pull , saves progress locally
+13. git rebase
+14. git pull request
+
+
+AGILE METHODOLOGY
+Software Development Process
+a. Waterfall Model
+b. Agile METHODOLOGY
+* Agile Manifesto
+* Agile Umbrella:: Scrum, Crystal, Kanban, XP, DSDM, 
+* Scrum: Splitting, Sprint Planning
+* Scrum v/s Waterfall
+* Iterative Scrum
+* Things done in scrum: backlog, user stories, estimates, work, ranked, weighted, roadmap, daily scrum/standup meeting
+* Scrum Artifacts
+* Kanban : Less rule, just defining feature
+* 
